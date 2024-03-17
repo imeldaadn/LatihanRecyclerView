@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">LatihanRecyclerView</string>
+    <string name="merk_handphone">Merk Handphone</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Iphone 11</item>
+        <item>Iphone 13</item>
+        <item>Oppo A92</item>
+        <item>Oppo Reno 10</item>
+        <item>Poco M3</item>
+        <item>ROG Phone 6</item>
+        <item>Samsung Galaxy A03</item>
+        <item>Samsung Galaxy A51</item>
+        <item>Samsung S23</item>
+    </string-array>
+    <string-array name="data_description">
+<item>iPhone 11 adalah smartphone flagship dari Apple, dikenal
+karena kamera canggih, performa tinggi, dan desain elegan. Memiliki
+sistem kamera ganda dan teknologi Face ID yang canggih.</item>
+        <item>iPhone 13 adalah versi terbaru dari seri smartphone ikonik
+Apple. Terkenal dengan fitur terkini, termasuk sistem kamera unggulan,
+chip A15 Bionic yang powerful, dan layar Super Retina XDR yang
+memukau.</item>
+        <item>Oppo A92 adalah smartphone kelas menengah dengan fokus pada
+performa dan desain stylish. Menawarkan sistem kamera yang serbaguna,
+layar besar, dan daya tahan baterai yang efisien untuk pengalaman
+pengguna yang memuaskan.</item>
+        <item>Oppo Reno10 adalah smartphone premium dari seri Reno Oppo,
+menampilkan desain elegan dan teknologi kamera inovatif. Menggabungkan
+performa tinggi dengan desain yang khas.</item>
+        <item>Poco M3 adalah smartphone terjangkau yang dikenal dengan
+kapasitas baterai besar, layar impresif, dan sistem kamera yang mumpuni.
+Menawarkan nilai luar biasa bagi mereka yang mencari perangkat yang
+handal dan terjangkau.</item>
+        <item>ROG Phone 6 adalah bagian dari seri Republic of Gamers
+(ROG) dari ASUS, dirancang untuk para penggemar game. Menampilkan
+perangkat keras canggih, layar dengan refresh rate tinggi, dan fitur
+khusus gaming untuk pengalaman bermain game yang mendalam.</item>
+        <item>Samsung Galaxy A03 adalah smartphone entry-level dengan
+fokus pada harga terjangkau. Menyediakan fitur dasar, desain kompak, dan
+sistem kamera yang dapat diandalkan, cocok bagi pengguna dengan anggaran
+terbatas.</item>
+        <item>Samsung Galaxy A51 adalah smartphone kelas menengah dengan
+desain ramping, layar Super AMOLED yang vibrant, dan sistem kamera
+serbaguna. Cocok bagi pengguna yang mencari keseimbangan antara performa
+dan harga.</item>
+        <item>Samsung S23 diantisipasi sebagai model flagship, mengikuti
+jejak seri premium S dari Samsung. Meskipun detail spesifik dapat
+bervariasi, kemungkinan akan menampilkan teknologi terkini, sistem
+kamera canggih, dan performa kelas atas.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/iphone_13</item>
+        <item>@drawable/iphone_11</item>
+        <item>@drawable/oppo_a92</item>
+        <item>@drawable/oppo_reno10</item>
+        <item>@drawable/poco_m3</item>
+        <item>@drawable/rog_phone6</item>
+        <item>@drawable/samsung_galaxya03</item>
+        <item>@drawable/samsung_galaxya51</item>
+        <item>@drawable/samsung_s23</item>
+    </integer-array>
+</resources>
